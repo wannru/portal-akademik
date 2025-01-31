@@ -33,6 +33,3 @@ Sistem portal akademik yang memfasilitasi pengelolaan data mahasiswa, jadwal, da
 ### Nginx
 1. Konfigurasi file Nginx di direktori `nginx`.
 2. Jalankan Nginx.
-
-## Kontribusi
-Silakan ajukan pull request untuk kontribusi.
